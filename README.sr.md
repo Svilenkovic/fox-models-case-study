@@ -2,27 +2,27 @@
 
 # FOX Models
 
-Svetla verzija konceptnog sajta za modelsku agenciju iz Beograda: bordovi, profili modela sa merama, editorijali i prijava novih lica.
+Redizajn sajta modelske agencije iz Beograda: bordovi, profili modela sa merama, editorijali i prijava novih lica.
 
 **[models.svilenkovic.rs](https://models.svilenkovic.rs/)** · [Studija slučaja](https://svilenkovic.rs/radovi/fox-models) · [English](README.md)
 
 > [!NOTE]
-> Moj sopstveni demo. Izvorni kod je privatan. Ova stranica opisuje ideju i kako je napravljen.
+> Klijentski projekat. Izvorni kod pripada klijentu i čuva se u privatnom repozitorijumu. Ova stranica opisuje šta sam uradio i kako.
 
 <table>
-  <tr><td><b>Klijent</b></td><td>Konceptni projekat</td></tr>
+  <tr><td><b>Klijent</b></td><td>FOX Models</td></tr>
   <tr><td><b>Delatnost</b></td><td>Modelska agencija</td></tr>
   <tr><td><b>Lokacija</b></td><td>Beograd</td></tr>
   <tr><td><b>Vrsta</b></td><td>Sajt sa više strana</td></tr>
-  <tr><td><b>Moj deo posla</b></td><td>Koncept, dizajn, izrada, SEO i hosting</td></tr>
+  <tr><td><b>Moj deo posla</b></td><td>Redizajn, dizajn, izrada i SEO</td></tr>
   <tr><td><b>Tehnologije</b></td><td>HTML, CSS, vanilla JS, nginx</td></tr>
 </table>
 
 ## O projektu
 
-FOX Models je koncept za modelsku agenciju iz Beograda koja vodi ženski i muški bord, traži nova lica i radi za modne kuće, magazine i brendove. Na takvom sajtu fotografija je proizvod, pa sve ostalo mora da joj se skloni s puta. Postoje dve verzije: tamna, sa 3D prstenom fotografija, i ova svetla, bez ikakvog 3D-a, koja je dobila sve kasnije dorade i znatno jednostavniju naslovnu.
+FOX Models je modelska agencija iz Beograda koja vodi ženski i muški bord, traži nova lica i radi za modne kuće, magazine i brendove, a ja radim redizajn njenog sajta. Na takvom sajtu fotografija je proizvod, pa sve ostalo mora da joj se skloni s puta. Ranija tamna verzija imala je 3D prsten fotografija, a ova svetla, bez ikakvog 3D-a, dobila je sve kasnije dorade i znatno jednostavniju naslovnu. Radna verzija stoji na mom poddomenu, zatvorena za indeksiranje, dok sadašnji sajt agencije ostaje na foxmodel.com.
 
-Pisao sam je u čistom HTML-u, CSS-u i JavaScript-u, bez frameworka i bez build koraka, oko 70 KB sopstvenog koda u tri fajla. Fajl sa podacima ima ista polja kao kolone koje bi vraćala baza agencije, jedan model je jedan red, pa demo podaci mogu da se zamene pravom bazom bez diranja sajta. Za izmenu sadržaja dovoljno je prekopirati jedan fajl na server, dok 3D verzija, kao Next.js projekat, traži novi build.
+Pisao sam je u čistom HTML-u, CSS-u i JavaScript-u, bez frameworka i bez build koraka, oko 70 KB sopstvenog koda u tri fajla. Fajl sa podacima ima ista polja kao kolone koje bi vraćala baza agencije, jedan model je jedan red, pa demo podaci mogu da se zamene pravom bazom bez diranja sajta. Za izmenu sadržaja dovoljno je prekopirati jedan fajl na server, dok je 3D verzija, kao Next.js projekat, tražila novi build.
 
 ## Šta sam uradio
 
