@@ -4,7 +4,7 @@
 
 Redesign of a Belgrade modeling agency's website: boards, model profiles with measurements, editorials and a new faces application.
 
-**[models.svilenkovic.rs](https://models.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/fox-models) · [Srpski](README.sr.md)
+**[models.svilenkovic.rs](https://models.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/fox-models) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
